@@ -1,0 +1,4 @@
+.banner{background-image:url("../images/banner.png");}
+.banner{background-image:url("../images/banner.png#test");}
+.http { background-image: url("http://somehost.com/image.png"); }
+.https_urls { background-image: url("https://somehost.com/image.png"); }

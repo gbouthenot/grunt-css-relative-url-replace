@@ -1,0 +1,50 @@
+{
+  "name": "grunt-css-relative-url-replace",
+  "description": "Grunt task to replace css urls with relative path",
+  "version": "1.0.0",
+  "homepage": "https://github.com/gbouthenot/grunt-css-relative-url-replace",
+  "author": {
+    "name": "Gilles Bouthenot",
+    "email": "misc@atomas.com",
+    "url": "https://github.com/gbouthenot"
+  },
+  "contributors": [
+    {
+      "name": "Tom Huang",
+      "email": "hzlhu.dargon@gmail.com",
+      "url": "https://github.com/nanjingboy"
+    },
+    {
+      "name": "superbug",
+      "email": "sunweijun1989@gmail.com"
+    },
+    {
+      "name": "andersjanmyr",
+      "email": "https://github.com/andersjanmyr"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gbouthenot/grunt-css-relative-url-replace.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gbouthenot/grunt-css-relative-url-replace/issues"
+  },
+  "license": "MIT",
+  "main": "Gruntfile.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-nodeunit": "^1.0.0",
+    "grunt": "^1.0.0"
+  },
+  "keywords": [
+    "gruntplugin"
+  ]
+}

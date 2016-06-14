@@ -1,0 +1,4 @@
+.avatar{background-image:url("../../images/avatar.png");}
+.avatar{background-image:url("../../images/avatar.png?name=test");}
+.data_urls { background-image: url('data:image/png:base64,0'); }
+.backslashes_urls { background-image: url('\images\e.png') }
